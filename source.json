@@ -11,11 +11,19 @@
       "subtitle": "Original upstream IPA, no rehosting",
       "iconURL": "https://github.com/itzzace.png",
       "tintColor": "FF0000",
-      "version": "21.46.3",
-      "versionDate": "2026-11-15",
-      "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.8/YTKACE_1.1.8_YouTube_21.46.3.ipa",
-      "size": 141821255,
+      "version": "21.47.6",
+      "versionDate": "2026-11-22",
+      "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.9/YTKACE_1.1.9_YouTube_21.47.6.ipa",
+      "size": 143414110,
       "versions": [
+        {
+          "version": "21.47.6",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.1.9/YTKACE_1.1.9_YouTube_21.47.6.ipa",
+          "size": 143414110,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Original YTKACE v1.1.9 IPA from itzzace/ytkace; integrity checked."
+        },
         {
           "version": "21.46.3",
           "date": "2026-11-15",
